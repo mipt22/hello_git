@@ -1,3 +1,4 @@
+# Script to Lern Git
 # Python 3: Fibonacci series up to n
 def fib(n):
     a, b = 0, 1
